@@ -1,4 +1,4 @@
-[![MasterHead](d543a6f2412b85d20511fa3395496171.gif)]()
+<center>[![MasterHead](d543a6f2412b85d20511fa3395496171.gif)]()</center>
 <h1 align="center"> "Hello World"
 <img src="assets/hand_waving.gif" width="50" height="50">
 </h1>
