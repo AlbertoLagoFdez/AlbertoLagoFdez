@@ -27,8 +27,6 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
-
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7gh6u4au0zd5gdf8xmi86l6dl&unique={true|1|on|yes})
